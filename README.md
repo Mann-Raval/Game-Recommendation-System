@@ -6,7 +6,7 @@ A content-based game recommender system built using **Machine Learning** and dep
 
 ## 🚀 Demo
 
-![App Screenshot](your-screenshot-link-here)
+<img width="1905" height="1035" alt="Screenshot 2026-03-30 203411" src="https://github.com/user-attachments/assets/e1633100-f0db-4194-bf96-374b5c2f943a" />
 
 ---
 
